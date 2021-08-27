@@ -1,7 +1,5 @@
 # my-website
 This is a really awesome website!
-
-
-new update
+Updates on main on github before rebase
 
 
